@@ -1,0 +1,7 @@
+Warning[205] C:\USERS\KOHLER\DESKTOP\SISTEMAS\PIC\INTERRUPÁ„O\INTERRUPÁ„O.ASM 1 : Found directive in column 1. (INCLUDE)
+Warning[205] C:\USERS\KOHLER\DESKTOP\SISTEMAS\PIC\INTERRUPÁ„O\INTERRUPÁ„O.ASM 8 : Found directive in column 1. (ORG)
+Warning[205] C:\USERS\KOHLER\DESKTOP\SISTEMAS\PIC\INTERRUPÁ„O\INTERRUPÁ„O.ASM 11 : Found directive in column 1. (ORG)
+Message[305] C:\USERS\KOHLER\DESKTOP\SISTEMAS\PIC\INTERRUPÁ„O\INTERRUPÁ„O.ASM 15 : Using default destination of 1 (file).
+Message[302] C:\USERS\KOHLER\DESKTOP\SISTEMAS\PIC\INTERRUPÁ„O\INTERRUPÁ„O.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\KOHLER\DESKTOP\SISTEMAS\PIC\INTERRUPÁ„O\INTERRUPÁ„O.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\KOHLER\DESKTOP\SISTEMAS\PIC\INTERRUPÁ„O\INTERRUPÁ„O.ASM 51 : Found directive in column 1. (END)

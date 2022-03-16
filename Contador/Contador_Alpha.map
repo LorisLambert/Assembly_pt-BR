@@ -1,0 +1,42 @@
+MPLINK 4.37, Linker
+Linker Map File - Created Mon Aug 03 13:01:37 2015
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00005a
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00002c      
+            45 out of 4229 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   BOUNCE   0x000006    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                  BT_TEST   0x000020    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                 BT_TEST2   0x000025    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                 CORREÇAO   0x000029    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                  DISPLAY   0x00000d    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                 PROGRAMA   0x00001e    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   BOUNCE   0x000006    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                  DISPLAY   0x00000d    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                 PROGRAMA   0x00001e    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                  BT_TEST   0x000020    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                 BT_TEST2   0x000025    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+                 CORREÇAO   0x000029    program     static C:\Users\Kohler\Desktop\Pic\Trabalho 2.0\Contador_Alpha.asm
+
+

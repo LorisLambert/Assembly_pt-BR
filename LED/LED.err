@@ -1,0 +1,13 @@
+Warning[205] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 2 : Found directive in column 1. (ORG)
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 3 : Found opcode in column 1. (BSF)
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 4 : Found opcode in column 1. (BSF)
+Message[302] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 4 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 5 : Found opcode in column 1. (BCF)
+Message[302] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 5 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 6 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 7 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 8 : Found opcode in column 1. (BTFSC)
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 9 : Found opcode in column 1. (GOTO)
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 10 : Found opcode in column 1. (BSF)
+Warning[203] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 11 : Found opcode in column 1. (GOTO)
+Warning[205] C:\USERS\KOHLER\DESKTOP\PIC\LED.ASM 12 : Found directive in column 1. (END)
